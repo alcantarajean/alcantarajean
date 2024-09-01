@@ -1,8 +1,4 @@
- <style> 
-         p{ color black
-           {
- 
- </style>
+
 
 
 <div align="center">
@@ -12,7 +8,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/alcantarajean/alcantarajean/output/snake.svg" alt="Snake animation" />
+
 
 
 
